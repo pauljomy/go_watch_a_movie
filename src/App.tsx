@@ -10,7 +10,7 @@ import Movies from "./pages/Movies";
 import AddMovie from "./pages/AddMovie";
 
 const App = () => {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
 
   return (
     <div>
